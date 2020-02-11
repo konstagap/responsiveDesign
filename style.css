@@ -89,7 +89,7 @@ body {
   justify-content: center;
   height: 750px;
   padding-top: 100px;
-  background: #232846 url("/img/mainLayer.jpg") center no-repeat;
+  background: #232846 url("./img/mainLayer.jpg") center no-repeat;
   background-size: cover;
 }
 
